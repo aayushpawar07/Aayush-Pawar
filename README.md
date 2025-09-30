@@ -1,10 +1,10 @@
-
 # Hi there, I'm Aayush Paradkar! 👋  
 
 ## 🚀 About Me  
-🎓 Second-year Computer Science student  
+🎓 Final-year Computer Science student  
+💼 Currently working at **Cloud Nexus**  
 💻 Passionate about building full-stack applications and exploring new technologies  
-📚 Currently focusing on mastering **Java Spring Boot**, **React**, and **DSA for interviews**  
+📚 Focusing on **Java Spring Boot**, **React**, and **DSA for interviews**  
 
 ---
 
